@@ -158,14 +158,17 @@ Lead information stored:
 ### Chat Widget
 
 (Add screenshot here)
-
+<img width="782" height="1206" alt="image" src="https://github.com/user-attachments/assets/f1d4fa12-bea6-461f-88a7-425e781edac3" />
+  
 ### n8n Workflow
 
 (Add screenshot here)
+<img width="2708" height="1558" alt="image" src="https://github.com/user-attachments/assets/d56de177-36c0-4106-b030-25f3266223b2" />
 
 ### Airtable CRM
 
 (Add screenshot here)
+<img width="2740" height="1418" alt="image" src="https://github.com/user-attachments/assets/be23cbe2-9c2f-4282-a5e2-b20d1193a2e8" />
 
 ---
 
